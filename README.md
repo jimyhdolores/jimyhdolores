@@ -19,4 +19,4 @@
 # Quieres aprender Angular desde cero Totalmente GRATIS!😱😱😱
 
 <a href="https://youtube.com/playlist?list=PLy09ETjgu8VqSJgZXiiL-pSg4g1xbowGE" target="_blank"><img src="https://github.com/jimyhdolores/jimyhdolores/blob/main/assets/curso.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="auto" height="180" border="10" /></a>
