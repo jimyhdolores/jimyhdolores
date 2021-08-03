@@ -1,5 +1,7 @@
 <h1 align="center">Hola👋, Coders! Mi nombre es Jimy H Dolores</h1>
-<h3 align="center">Soy un software developer con más de cinco años de experiencia, he trabajado en la parte FrontEnd y BackEnd, pero me encanta el mundo del FrontEnd, así que ahora me dedico a ello; me considero una persona autodidacta e innovadora y producto de ello creo contenido para poder ayudar a las demás personas, actualmente tengo un canal de Youtube llamado [fuckynCode] (https://www.youtube.com/c/fuckynCode), espero que a alguien le sirva los videos.</h3>
+<h3 align="center">Soy un software developer con más de cinco años de experiencia, he trabajado en la parte FrontEnd y BackEnd, pero me encanta el mundo del FrontEnd, así que ahora me dedico a ello; me considero una persona autodidacta e innovadora y producto de ello creo contenido para poder ayudar a las demás personas, actualmente tengo un canal de Youtube llamado <a href="https://www.youtube.com/c/fuckynCode">fuckynCode</a> , espero que a alguien le sirva los videos.</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimyhdolores&label=Profile%20views&color=0e75b6&style=flat" alt="jimyhdolores" /> </p>
 
