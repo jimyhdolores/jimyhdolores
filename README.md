@@ -1,4 +1,5 @@
-<h1 align="center">Hola👋, Coders! Mi nombre es Jimy H Dolores</h1>
+![banner github_Mesa de trabajo 1](https://user-images.githubusercontent.com/10909792/128457661-1c9c7d8f-bb2b-462c-aa46-b01ba792155a.jpg)
+<h1 alig![Uploading banner github_Mesa de trabajo 1.jpg…]()n="center">Hola👋, Coders! Mi nombre es Jimy H Dolores</h1>
 <h3 align="center">Soy un software developer con más de cinco años de experiencia, he trabajado en la parte FrontEnd y BackEnd, pero me encanta el mundo del FrontEnd, así que ahora me dedico a ello; me considero una persona autodidacta e innovadora y producto de ello creo contenido para poder ayudar a las demás personas, actualmente tengo un canal de Youtube llamado <a href="https://www.youtube.com/c/fuckynCode">fuckynCode</a> , espero que a alguien le sirva los videos.</h3>
 
 
