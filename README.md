@@ -8,9 +8,9 @@
 
 <h3 align="left">Sígueme en mis redes:</h3>
 <p align="left">
-<a href="https://twitter.com/jimyhdolores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jimyhdolores" height="30" width="40" /></a>
-<a href="https://fb.com/fukyncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="LogiDev" height="30" width="40" /></a>
-<a href="https://instagram.com/jimyhdolores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jimyhdolores" height="30" width="40" /></a>
+<a href="https://twitter.com/jimydolores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jimydolores" height="30" width="40" /></a>
+<a href="https://fb.com/Logidev25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="LogiDev" height="30" width="40" /></a>
+<a href="https://instagram.com/jimydolores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jimyhdolores" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/LogiDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fuckyncode" height="30" width="40" /></a>
 </p>
 
